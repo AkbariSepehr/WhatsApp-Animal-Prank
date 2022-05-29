@@ -18,3 +18,13 @@ To RUN:
  - pip install pyautogui 
  - pip install time (if you dont have it)
  - log into whatsapp web application 
+
+
+
+
+
+
+ALSO: {very important}
+
+I have not written the animal name generator program, but added it to the directory anyways.
+its in Ruby, and pretty simple.
